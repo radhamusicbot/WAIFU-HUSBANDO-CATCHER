@@ -5,7 +5,7 @@ class Config(object):
     OWNER_ID = "5909658683"
     sudo_users = "1881562083", "5909658683"
     GROUP_ID = -1002311769574
-    TOKEN = "7655351916:AAF2oFfE26TBpaB5lx0YeJcal-6Aotmjdtw"
+    TOKEN = ""
     mongo_url = "mongodb+srv://TEAMBABY01:UTTAMRATHORE09@cluster0.vmjl9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     PHOTO_URL = ["https://files.catbox.moe/sjzwp3.jpg", "https://files.catbox.moe/sjzwp3.jpg"]
     SUPPORT_CHAT = "iamvillain77"
